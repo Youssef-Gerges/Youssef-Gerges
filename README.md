@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Gerges</h1>
-<h3 align="center">A front end developer from Egypt</h3>
+<h3 align="center">A Full-Stack developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **React | Laravel**
 
 - 📫 How to reach me **youssefgerges12000@gmail.com**
 
